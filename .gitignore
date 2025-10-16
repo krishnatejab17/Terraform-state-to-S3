@@ -25,4 +25,4 @@ crash.*.log
 # Ignore sensitive files
 *.pem
 *.key
-*.pub
+*.pub.terraform.lock.hcl
